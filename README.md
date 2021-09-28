@@ -1,6 +1,6 @@
 The Cycle of Yesterday
 
-Développement Web A21_582324MO-000002 Développement Web
+Développement Web A21_582324MO-000002
 https://smnarnold.com/projets/vous-etes-le-heros
 
 **Genre :** Aventure, Romantique
