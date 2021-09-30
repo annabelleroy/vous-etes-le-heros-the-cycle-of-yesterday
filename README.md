@@ -8,4 +8,4 @@ https://smnarnold.com/projets/vous-etes-le-heros
 **Palette de couleurs :** https://coolors.co/61e294-7bcdba-9799ca-bd93d8-b47aea  <br/>
 
 ## Diagramme
-
+<img src="https://chemin/vers/image.jpg"
